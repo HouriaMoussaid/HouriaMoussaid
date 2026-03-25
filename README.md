@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Houria Moussaid
 
-<!--
-**HouriaMoussaid/HouriaMoussaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student at ENIADB, passionate about Flutter development, web platforms, and Artificial Intelligence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+- **Languages:** Python | Java | Dart (Flutter) | SQL | HTML/CSS | JavaScript  
+- **Tools & Frameworks:** Flutter | Firebase | Spring MVC | Git/GitHub | UML  
+- **Domains:** Web & Mobile Applications | Machine Learning | Networks & Systems  
+
+---
+
+
+## 📫 Contact
+
+- ✉️ Email: [moussaidhouria34@gmail.com](mailto:your-email@example.com)  
+- 🔗 LinkedIn: [(https://www.linkedin.com/in/houria-moussaid-4292a2376)](#)  
