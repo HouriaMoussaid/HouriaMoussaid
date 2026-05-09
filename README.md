@@ -103,7 +103,7 @@ I'm currently open to **internship and apprenticeship opportunities** in:
 - 💻 Full-Stack Web Development
 - 🤖 AI & Computer Vision
 
-📧 **moussaidhouria34@gmail.com** · 📱 **+212 614207447**
+📧 **moussaidhouria34@gmail.com** · 📱 **+212 614207447** 
 
 ---
 
