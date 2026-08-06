@@ -90,8 +90,7 @@ fun_fact:    "I built a medical robot that talks Darija 🤖🇲🇦"
 
 | Project | Description | Tech |
 |---------|-------------|------|
-|⚙️ [AutoFlow](https://github.com/HouriaMoussaid/ia-plateform) | Plateforme d'automatisation de workflows dédiée aux entreprises
-en microservices  |	Spring Boot · React · RabbitMQ · Gemini AI · JWT 
+|⚙️ [AutoFlow](https://github.com/HouriaMoussaid/ia-plateform) | Plateforme d'automatisation de workflows dédiée aux entreprises en microservices  |	Spring Boot · React · RabbitMQ · Gemini AI · JWT 
 | 🤖 [YAKOUT — Medical Robot](https://github.com/HouriaMoussaid/yakout-medical-robot) | AI-powered medical assistance robot with Darija voice interaction, emotion recognition, and facial recognition | Python · OpenCV · Keras · WebRTC · ROS2 |
 | 📊 [Sales Analytics Dashboard](https://github.com/HouriaMoussaid/sales-analytics-powerbi) | Multi-page Power BI report analyzing sales performance | Power BI · DAX |
 | 🔬 [Lab Activity Manager](https://github.com/HouriaMoussaid/lab-activity-manager) | Secure web app automating 35% of lab admin tasks | Laravel · MySQL · JWT |
