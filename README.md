@@ -31,6 +31,7 @@ fun_fact:    "I built a medical robot that talks Darija 🤖🇲🇦"
 ### 🏆 Highlights
 
 - 🥈 **2nd Prize — Hackathon Oujda 2.0**
+- ⚙️ **AutoFlow** — Plateforme d'automatisation de workflows en microservices (Spring Boot, React, RabbitMQ, IA Gemini) — Projet de Fin d'Études
 - 🤖 **Built YAKOUT** — Medical assistance robot with Darija voice interaction (CITT, 2025)
 - 😊 **85%+ accuracy** on real-time emotion recognition (OpenCV + CNN Keras)
 - 🎓 Engineering student at **ENIAD Berkane** · Licence Pro AI from **EST Casablanca**
