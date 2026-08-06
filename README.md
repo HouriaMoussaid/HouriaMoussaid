@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Houria%20Moussaid&textBg=false&fontSize=48&section=header&fontColor=0:F75C7E&animation=blinking&desc=Computer%20Engineering%20Student%20·%20AI%20·%20Web%20·%20Data%20🇲🇦
+![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Houria%20Moussaid&textBg=false&fontSize=48&section=header&fontColor=0:F75C7E&animation=blinking&desc=Computer%20Engineering%20Student%20-%20AI%20-%20Web%20-%20Data%20ма)
 <h1 align="center">Hi, I'm Houria 👋</h1>
 <h3 align="center">Computer Engineering Student · AI · Web · Data 🇲🇦</h3>
 
