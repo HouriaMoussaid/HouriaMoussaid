@@ -1,4 +1,4 @@
-![Header]([https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Houria%20Moussaid&textBg=false&fontSize=48&section=header&fontColor=0:F75C7E&animation=blinking&desc=Computer%20Engineering%20Student%20-%20AI%20-%20Web%20-%20Data%20ма](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Houria%20Moussaid&desc=Computer%20Engineering%20Student%20·%20AI%20·%20Web%20·%20Data%20🇲🇦))
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Houria%20Moussaid&desc=Computer%20Engineering%20Student%20·%20AI%20·%20Web%20·%20Data%20🇲🇦)
 <p align="center">
   <a href="https://linkedin.com/in/houria-moussaid">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
